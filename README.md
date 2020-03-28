@@ -1,6 +1,6 @@
 # Neural-Networks-and-Deep-Learning
 
-This is the programming assignment repo for [https://www.coursera.org/learn/neural-networks-deep-learning](Neural Networks and Deep Learning) course by Andrew Ng from Coursera
+This is the programming assignment repo for [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course by Andrew Ng from Coursera
 
 ## Assignments
 [Logistic_Regression_with_a_Neural_Network_mindset.ipynb](Week2 - Logistic Regression with a Neural Network mindset)
