@@ -1,4 +1,4 @@
-# Neural-Networks-and-Deep-Learning
+# Neural Networks and Deep Learning
 
 This is the programming assignment repo for [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course by Andrew Ng from Coursera
 
