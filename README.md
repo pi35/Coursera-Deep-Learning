@@ -13,3 +13,4 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 
 
 ## Course 2
+[Week 1 - Initialization parameters](Initialization.ipynb)
