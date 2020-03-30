@@ -18,3 +18,5 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 1 - Regularization](Regularization_v2a.ipynb)
 
 [Week 1 - Gradient Checking](Gradient+Checking+v1.ipynb)
+
+[Week 2 - Optimization Methods](Optimization_methods_v1b.ipynb)
