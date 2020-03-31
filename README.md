@@ -2,7 +2,7 @@
 
 This is the programming assignment repo for [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course by Andrew Ng from Coursera
 
-## Course 1
+## Course 1 - Neural Networks and Deep Learning
 [Week 2 - Logistic Regression with a Neural Network mindset](Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 [Week 3 - Planar data classification with one hidden layer](Planar_data_classification_with_onehidden_layer.ipynb)
@@ -12,7 +12,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 4 - Deep Neural Network for Image Classification: Application](Deep+Neural+Network+-+Application.ipynb)
 
 
-## Course 2
+## Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 [Week 1 - Initialization parameters](Initialization.ipynb)
 
 [Week 1 - Regularization](Regularization_v2a.ipynb)
