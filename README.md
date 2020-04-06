@@ -25,3 +25,5 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 
 ## Course 4 - Convolutional Neural Networks
 [Week 1 - Convolutional Model: step by step](Convolution_model_Step_by_Step_v2a.ipynb)
+
+[Week 1 - Convolution_model_Application](Convolution_model_Application_v1a.ipynb)
