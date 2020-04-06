@@ -22,3 +22,6 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 2 - Optimization Methods](Optimization_methods_v1b.ipynb)
 
 [Week 3 - Tensorflow Tutorial](TensorFlow_Tutorial_v3b.ipynb)
+
+## Course 4 - Convolutional Neural Networks
+[Week 1 - Convolutional Model: step by step](Convolution_model_Step_by_Step_v2a.ipynb)
