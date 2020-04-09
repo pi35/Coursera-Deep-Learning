@@ -7,7 +7,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 
 [Week 3 - Planar data classification with one hidden layer](notebooks/Planar_data_classification_with_onehidden_layer.ipynb)
 
-[Week 4 - Buildeing your deep neural network: step by step](notebooks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+[Week 4 - Building your deep neural network: step by step](notebooks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
 [Week 4 - Deep Neural Network for Image Classification: Application](notebooks/Deep+Neural+Network+-+Application.ipynb)
 
