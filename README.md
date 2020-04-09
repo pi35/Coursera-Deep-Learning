@@ -9,7 +9,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 
 [Week 4 - Building your deep neural network: step by step](notebooks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
-[Week 4 - Deep Neural Network for Image Classification: Application](notebooks/Deep+Neural+Network+-+Application.ipynb)
+[Week 4 - Deep Neural Network for Image Classification: Application](notebooks/dnn_application.ipynb)
 
 
 ## Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
