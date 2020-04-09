@@ -6,7 +6,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 2 - Logistic Regression with a Neural Network mindset](notebooks/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 [Week 3 - Planar data classification with one hidden layer](notebooks/Planar_data_classification_with_onehidden_layer.ipynb)
-a
+
 [Week 4 - Building your Deep Neural Network: Step by Step](notebooks/Building your Deep Neural Network: Step by Step.ipynb)
 
 [Week 4 - Deep Neural Network for Image Classification: Application](notebooks/Deep+Neural+Network+-+Application.ipynb)
