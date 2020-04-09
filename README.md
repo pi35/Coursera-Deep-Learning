@@ -3,7 +3,7 @@
 This is the programming assignment repo for [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course by Andrew Ng from Coursera
 
 ## Course 1 - Neural Networks and Deep Learning
-[Week 2 - Logistic Regression with a Neural Network mindset](Python notebooks/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+[Week 2 - Logistic Regression with a Neural Network mindset](Python_notebooks/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 [Week 3 - Planar data classification with one hidden layer](Python notebooks/Planar_data_classification_with_onehidden_layer.ipynb)
 
