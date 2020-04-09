@@ -29,3 +29,5 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 1 - Convolution_model_Application](Convolution_model_Application_v1a.ipynb)
 
 [Week 2 - Keras_Tutorial](Keras_Tutorial_v2a.ipynb)
+
+[Week 2 - Residual_Networks](Residual_Networks_v2a.ipynb)
