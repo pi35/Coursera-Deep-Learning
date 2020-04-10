@@ -31,3 +31,5 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 2 - Keras_Tutorial](notebooks/Keras_Tutorial_v2a.ipynb)
 
 [Week 2 - Residual_Networks](notebooks/Residual_Networks_v2a.ipynb)
+
+[Week 3 - Autonomous driving application - Car detection](notebooks/Autonomous_driving_application_Car_detection_v3a.ipynb)
