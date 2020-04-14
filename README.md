@@ -37,3 +37,5 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 4 - Art Generation with Neural Style Transfer](notebooks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
 [Week 4 - Face Recognition](notebooks/Face_Recognition_v3a.ipynb)
+
+## Course 5 - Sequence Models
