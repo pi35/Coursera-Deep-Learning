@@ -45,3 +45,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 1 - Character level language model - Dinosaurus Island](notebooks/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
 
 [Week 1 - Improvise a Jazz Solo with an LSTM Network](notebooks/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+
+[Week 2 - Operations on word vectors](notebooks/Operations_on_word_vectors_v2a.ipynb)
+
+[Week 2 - Emojify](notebooks/Emojify_v2a.ipynb)
