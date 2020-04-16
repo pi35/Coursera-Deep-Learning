@@ -49,3 +49,7 @@ This is the programming assignment repo for [Neural Networks and Deep Learning](
 [Week 2 - Operations on word vectors](notebooks/Operations_on_word_vectors_v2a.ipynb)
 
 [Week 2 - Emojify](notebooks/Emojify_v2a.ipynb)
+
+[Week 3 - Neural Machine Translation](notebooks/Neural_machine_translation_with_attention_v4a.ipynb)
+
+[Week 3 - Trigger Word Detection](notebooks/Trigger_word_detection_v1a.ipynb)
